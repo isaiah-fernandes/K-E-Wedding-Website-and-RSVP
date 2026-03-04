@@ -1,0 +1,52 @@
+⨯ ./app/globals.css
+Error evaluating Node.js code
+Error: Failed to load external module file:///C:/Users/Isaiah/Downloads/K&E%20Wedding%20Website/website%20code/postcss.config.js: ReferenceError: THe is not defined
+    [at Context.externalImport (turbopack:///[turbopack]/shared-node/base-externals-utils.ts:16:11)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:104:5)]
+    [at async <anonymous> (turbopack:///[project]/postcss.config.js_.loader.mjs:9:13)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+⨯ ./app/globals.css
+Error evaluating Node.js code
+Error: Failed to load external module file:///C:/Users/Isaiah/Downloads/K&E%20Wedding%20Website/website%20code/postcss.config.js: ReferenceError: THe is not defined
+    [at Context.externalImport (turbopack:///[turbopack]/shared-node/base-externals-utils.ts:16:11)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:104:5)]
+    [at async <anonymous> (turbopack:///[project]/postcss.config.js_.loader.mjs:9:13)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+⨯ ./app/globals.css
+Error evaluating Node.js code
+Error: Failed to load external module file:///C:/Users/Isaiah/Downloads/K&E%20Wedding%20Website/website%20code/postcss.config.js: ReferenceError: THe is not defined
+    [at Context.externalImport (turbopack:///[turbopack]/shared-node/base-externals-utils.ts:16:11)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:104:5)]
+    [at async <anonymous> (turbopack:///[project]/postcss.config.js_.loader.mjs:9:13)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+⨯ ./app/globals.css
+Error evaluating Node.js code
+Error: Failed to load external module file:///C:/Users/Isaiah/Downloads/K&E%20Wedding%20Website/website%20code/postcss.config.js: ReferenceError: THe is not defined
+    [at Context.externalImport (turbopack:///[turbopack]/shared-node/base-externals-utils.ts:16:11)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:104:5)]
+    [at async <anonymous> (turbopack:///[project]/postcss.config.js_.loader.mjs:9:13)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+

@@ -831,3 +831,44 @@
  GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 128ms (compile: 6ms, render: 121ms)
 ✓ Compiled in 264ms
 ✓ Compiled in 608ms
+✓ Compiled in 1066ms
+ GET / 200 in 2.2s (compile: 242ms, render: 1994ms)
+ GET / 200 in 477ms (compile: 42ms, render: 435ms)
+ GET / 200 in 346ms (compile: 15ms, render: 331ms)
+ GET / 200 in 253ms (compile: 9ms, render: 243ms)
+ GET / 200 in 187ms (compile: 25ms, render: 162ms)
+ GET / 200 in 117ms (compile: 7ms, render: 111ms)
+ GET / 200 in 61ms (compile: 8ms, render: 53ms)
+ GET / 200 in 258ms (compile: 7ms, render: 251ms)
+ GET / 200 in 92ms (compile: 5ms, render: 87ms)
+ GET /api/wedding-image?name=logo.png 200 in 227ms (compile: 24ms, render: 203ms)
+ GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 55ms (compile: 21ms, render: 34ms)
+ GET /api/wedding-image?name=logo.png&v=1772624585236.9583 200 in 30ms (compile: 15ms, render: 14ms)
+ GET /api/wedding-image?name=name+pic.png&v=1772624863949.0823 200 in 39ms (compile: 8ms, render: 31ms)
+ GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 200 in 31ms (compile: 11ms, render: 20ms)
+ GET /photos 200 in 148ms (compile: 56ms, render: 92ms)
+ GET /api/wedding-image?name=En+pic+1.jpg&v=1772200491261.471 200 in 391ms (compile: 7ms, render: 385ms)
+ GET /api/wedding-image?name=En+pic+4.jpg&v=1772200491312.6526 200 in 423ms (compile: 17ms, render: 406ms)
+ GET /api/wedding-image?name=En+pic+2.jpg&v=1772200495122.1804 200 in 493ms (compile: 17ms, render: 476ms)
+ GET /api/wedding-image?name=En+pic+5.jpg&v=1772200496249.2603 200 in 530ms (compile: 26ms, render: 504ms)
+ GET /api/wedding-image?name=En+pic+3.jpg&v=1772200491993.6292 200 in 608ms (compile: 9ms, render: 600ms)
+ GET /api/wedding-image?name=En+pic+6.jpg&v=1772200496146.6074 200 in 2.3s (compile: 40ms, render: 2.2s)
+ GET / 200 in 1494ms (compile: 71ms, render: 1423ms)
+ GET /api/wedding-image?name=En+pic+7.jpg&v=1772201115507.059 200 in 1508ms (compile: 374ms, render: 1134ms)
+ GET /api/wedding-image?name=name+pic.png&v=1772624863949.0823 200 in 40ms (compile: 7ms, render: 33ms)
+ GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 200 in 21ms (compile: 5ms, render: 17ms)
+ GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 90ms (compile: 7ms, render: 83ms)
+ GET /rsvp 200 in 51ms (compile: 18ms, render: 33ms)
+[RSVP][f48401f3-a044-4beb-b1f4-083d8682667d] Incoming submission
+[RSVP][f48401f3-a044-4beb-b1f4-083d8682667d] Appending row to "RSVP"
+[RSVP][f48401f3-a044-4beb-b1f4-083d8682667d] Submission stored successfully
+ POST /api/rsvp 200 in 3.4s (compile: 2.3s, render: 1171ms)
+✓ Compiled in 216ms
+○ Compiling /_error ...
+ GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 500 in 4.0s (compile: 3.7s, render: 268ms)
+ GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 500 in 4.0s (compile: 4.0s, render: 33ms)
+ GET /api/wedding-image?name=name+pic.png&v=1772624863949.0823 500 in 4.0s (compile: 4.0s, render: 18ms)
+ GET / 500 in 28ms (compile: 16ms, render: 13ms)
+ GET / 500 in 24ms (compile: 11ms, render: 13ms)
+ GET / 500 in 27ms (compile: 11ms, render: 16ms)
+ GET / 500 in 24ms (compile: 11ms, render: 14ms)
