@@ -872,3 +872,16 @@
  GET / 500 in 24ms (compile: 11ms, render: 13ms)
  GET / 500 in 27ms (compile: 11ms, render: 16ms)
  GET / 500 in 24ms (compile: 11ms, render: 14ms)
+✓ Compiled in 1125ms
+ GET / 200 in 97ms (compile: 9ms, render: 89ms)
+ GET /api/wedding-image?name=logo.png 200 in 14ms (compile: 4ms, render: 11ms)
+ GET /api/wedding-image?name=logo.png&v=1772624585236.9583 200 in 23ms (compile: 13ms, render: 10ms)
+ GET /api/wedding-image?name=name+pic.png&v=1772624863949.0823 200 in 26ms (compile: 8ms, render: 19ms)
+ GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 61ms (compile: 3ms, render: 57ms)
+ GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 200 in 22ms (compile: 4ms, render: 19ms)
+ GET /rsvp 200 in 27ms (compile: 6ms, render: 21ms)
+ GET / 200 in 63ms (compile: 4ms, render: 59ms)
+[RSVP][a70a5c14-898b-482d-ad4a-740170f3c39f] Incoming submission
+[RSVP][a70a5c14-898b-482d-ad4a-740170f3c39f] Appending row to "RSVP"
+[RSVP][a70a5c14-898b-482d-ad4a-740170f3c39f] Submission stored successfully
+ POST /api/rsvp 200 in 1977ms (compile: 1182ms, render: 795ms)

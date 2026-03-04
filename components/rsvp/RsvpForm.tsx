@@ -6,13 +6,19 @@ import { getFieldErrors, validateRsvpPayload } from "@/lib/rsvp/validation";
 
 type FormErrors = Partial<Record<keyof RsvpPayload, string>>;
 
-const initialForm: RsvpPayload = {
+type RsvpFormState = Omit<RsvpPayload, "attending" | "additionalGuests" | "mealPreferences"> & {
+  attending: Attendance | "";
+  additionalGuests: number | "";
+  mealPreferences: MealPreference | "";
+};
+
+const initialForm: RsvpFormState = {
   guestName: "",
   email: "",
   phone: "",
-  attending: "Yes",
-  additionalGuests: 0,
-  mealPreferences: "Vegetarian",
+  attending: "",
+  additionalGuests: "",
+  mealPreferences: "",
   songRequests: "",
   messageOrPrayers: ""
 };
@@ -25,7 +31,7 @@ type ApiResponse = {
 };
 
 export function RsvpForm() {
-  const [formData, setFormData] = useState<RsvpPayload>(initialForm);
+  const [formData, setFormData] = useState<RsvpFormState>(initialForm);
   const [errors, setErrors] = useState<FormErrors>({});
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [statusMessage, setStatusMessage] = useState<string | null>(null);
@@ -33,7 +39,7 @@ export function RsvpForm() {
 
   const guestOptions = useMemo(() => Array.from({ length: 11 }, (_, i) => i), []);
 
-  function updateField<K extends keyof RsvpPayload>(field: K, value: RsvpPayload[K]) {
+  function updateField<K extends keyof RsvpFormState>(field: K, value: RsvpFormState[K]) {
     setFormData((prev) => ({ ...prev, [field]: value }));
     setErrors((prev) => ({ ...prev, [field]: undefined }));
     setStatusMessage(null);
@@ -154,7 +160,11 @@ export function RsvpForm() {
             value={formData.attending}
             onChange={(e) => updateField("attending", e.target.value as Attendance)}
             className="w-full rounded-lg border border-rose/40 px-3 py-2 outline-none ring-sage focus:ring"
+            required
           >
+            <option value="" disabled>
+              Select attendance
+            </option>
             <option value="Yes">Yes</option>
             <option value="No">No</option>
           </select>
@@ -169,9 +179,15 @@ export function RsvpForm() {
             id="additionalGuests"
             name="additionalGuests"
             value={formData.additionalGuests}
-            onChange={(e) => updateField("additionalGuests", Number(e.target.value))}
+            onChange={(e) =>
+              updateField("additionalGuests", e.target.value === "" ? "" : Number(e.target.value))
+            }
             className="w-full rounded-lg border border-rose/40 px-3 py-2 outline-none ring-sage focus:ring"
+            required
           >
+            <option value="" disabled>
+              Select number
+            </option>
             {guestOptions.map((value) => (
               <option key={value} value={value}>
                 {value}
@@ -196,6 +212,9 @@ export function RsvpForm() {
           className="w-full rounded-lg border border-rose/40 px-3 py-2 outline-none ring-sage focus:ring"
           required
         >
+          <option value="" disabled>
+            Select meal preference
+          </option>
           <option value="Vegetarian">Vegetarian</option>
           <option value="Non Vegetarian">Non Vegetarian</option>
         </select>
