@@ -29,10 +29,21 @@ function getRequiredEnv(name: string): string {
   return value.trim();
 }
 
+function normalizePrivateKey(value: string): string {
+  let key = value.trim();
+
+  // Vercel env values are raw strings; users often paste .env-style quoted keys.
+  if (key.startsWith('"') && key.endsWith('"')) {
+    key = key.slice(1, -1);
+  }
+
+  return key.replace(/\\n/g, "\n");
+}
+
 function getRsvpEnvConfig(): RsvpEnvConfig {
   return {
     clientEmail: getRequiredEnv("GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL"),
-    privateKey: getRequiredEnv("GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY").replace(/\\n/g, "\n"),
+    privateKey: normalizePrivateKey(getRequiredEnv("GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY")),
     spreadsheetId: getRequiredEnv("GOOGLE_SHEETS_SPREADSHEET_ID"),
     worksheetName: process.env.GOOGLE_SHEETS_WORKSHEET_NAME?.trim() || "RSVP"
   };
