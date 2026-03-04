@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --color-maroon: #541a28;
+  --color-cream: #cabda1;
+  --color-beige: #e6e1df;
+}
+
+body {
+  font-family: "Bahnschrift", "Segoe UI", sans-serif;
+  background-color: var(--color-beige);
+  color: #000000;
+}
+
+.section-card {
+  @apply rounded-2xl border p-6 shadow-sm backdrop-blur;
+  border-color: #541a28;
+  background-color: #ffffff;
+}
