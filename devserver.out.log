@@ -829,3 +829,5 @@
  GET /api/wedding-image?name=name+pic.png&v=1772624863949.0823 200 in 21ms (compile: 5ms, render: 16ms)
  GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 200 in 23ms (compile: 10ms, render: 13ms)
  GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 128ms (compile: 6ms, render: 121ms)
+✓ Compiled in 264ms
+✓ Compiled in 608ms
