@@ -105,7 +105,10 @@ export default function WeddingPartyPage() {
               />
             </div>
             <h2 className="text-2xl font-semibold text-[#541a28]">
-              <NameWithBracketHighlight text={member.name} bracketOnNewLine={member.bracketOnNewLine} />
+              <NameWithBracketHighlight
+                text={member.name}
+                bracketOnNewLine={"bracketOnNewLine" in member ? member.bracketOnNewLine : false}
+              />
             </h2>
             <p className="mt-2 text-justify text-ink/85">{member.note}</p>
           </li>
