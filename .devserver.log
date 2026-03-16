@@ -1,0 +1,29 @@
+
+> ke-wedding-website@1.0.0 dev
+> node "./node_modules/next/dist/bin/next" dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 1686ms
+ GET / 200 in 1698ms (compile: 1472ms, render: 226ms)
+ GET /api/wedding-image?name=Asset+5.png&v=1772388877194.9731 200 in 176ms (compile: 124ms, render: 52ms)
+ GET /api/wedding-image?name=logo.png 200 in 241ms (compile: 213ms, render: 28ms)
+ GET /api/wedding-image?name=logo.png&v=1772389159594.0342 200 in 24ms (compile: 5ms, render: 20ms)
+ GET /api/wedding-image?name=Skyline+church.jpg&v=1772389924431.0286 200 in 19ms (compile: 5ms, render: 14ms)
+ GET /api/wedding-image?name=couple+picture.jpg&v=1772388681292.4543 200 in 280ms (compile: 194ms, render: 86ms)
+ GET /photos 200 in 130ms (compile: 91ms, render: 39ms)
+ GET /api/wedding-image?name=En+pic+1.jpg&v=1772200491261.471 200 in 36ms (compile: 4ms, render: 33ms)
+ GET /photos 200 in 64ms (compile: 7ms, render: 57ms)
+ GET /api/wedding-image?name=En+pic+2.jpg&v=1772200495122.1804 200 in 52ms (compile: 4ms, render: 48ms)
+ GET /api/wedding-image?name=En+pic+3.jpg&v=1772200491993.6292 200 in 50ms (compile: 5ms, render: 46ms)
+ GET /api/wedding-image?name=En+pic+4.jpg&v=1772200491312.6526 200 in 58ms (compile: 5ms, render: 52ms)
+ GET /api/wedding-image?name=En+pic+5.jpg&v=1772200496249.2603 200 in 75ms (compile: 11ms, render: 64ms)
+ GET /api/wedding-image?name=En+pic+7.jpg&v=1772201115507.059 200 in 72ms (compile: 9ms, render: 63ms)
+ GET /api/wedding-image?name=En+pic+6.jpg&v=1772200496146.6074 200 in 101ms (compile: 17ms, render: 84ms)
+ GET /meet-the-couple 200 in 120ms (compile: 83ms, render: 37ms)
+ GET /wedding-party 200 in 97ms (compile: 63ms, render: 34ms)
+ GET /qa 200 in 78ms (compile: 53ms, render: 25ms)
