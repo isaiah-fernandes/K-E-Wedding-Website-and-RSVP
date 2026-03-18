@@ -31,11 +31,11 @@ const partyMembers = [
     photo: "Thomas Noronha.jpg",
     note: "Thomas Noronha: The fun uncle in the family, he loves his family and always supported me and did a 1000 small things for me to help me with life and my career.\nGiselle Noronha: A loving aunt and a teacher and family to us. She has cared for me like a daughter and always made our days special for years. Her Speech & Drama classes, the Goa trips and the kalina weekends are very fond memories to me."
   },
-  // {
-  //   name: "Pastor Mary (Wedding Officiator)",
-  //   photo: "Pastor Mary.jpg",
-  //   note: ""
-  // },
+  {
+    name: "Pastor Mary (Wedding Officiator)",
+    photo: "Pastor Mary.jpg",
+    note: "I’m Pastor Mary, and I am truly honored to be Kelvin and Ella’s officiant for the most anticipated wedding of the year! I met Kelvin when I came to GraceWay Church in February of 2023. He was in a Bible study of a few young people around his age, and no matter what question, issue, or crazy story came up, he was calm and thoughtful in his responses, always with a well-timed joke to boot. He continues to be the glue to every social group, and I have yet to meet someone who doesn’t get along with Kelvin! We always knew it would be a special woman to touch his heart, so when he mentioned someone particularly captivating, I couldn’t wait to meet her. And indeed, Ella is special - she is  smart and precocious, able to keep step with Kelvin and truly be his partner in crime - or at least in life! I can’t wait to share this beautiful occasion, lead us through a meaningful ceremony, and join in God’s blessing over this union! Let’s make some unforgettable memories together."
+  },
   {
     name: "Krisha Marolia (Maid of Honor)",
     photo: "Krisha Marolia.jpeg",

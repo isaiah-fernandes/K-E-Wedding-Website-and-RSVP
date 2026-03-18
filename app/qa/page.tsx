@@ -2,25 +2,21 @@ import { SectionShell } from "@/components/SectionShell";
 
 const faqs = [
   {
-    question: "When should I RSVP by?",
-    answer: "We would appreciate it if you could have it in by the end of march 2026."
+    question: "When is the RSVP deadline?",
+    answer: "We kindly ask that you RSVP by April 26th, 2026. You may also reach out to Kelvin, Ella, or any family member to RSVP."
   },
   {
     question: "What time should I arrive to the venue?",
-    answer: "4:00pm, 1600 Hours, and if you brown then its 3:30pm, 1530 Hours."
+    answer: "The wedding ceremony begins at 4:00 PM followed by the reception at 6:00 PM."
   },
     {
-    question: "Will there be dancing?",
+    question: "Can we expect dancing at the reception?",
     answer:
-      "Absolutely. So you better come prepared with those moves, stretch those hamstrings, and be ready to bust it down on the dance floor like you’ve been practicing in the mirror for weeks. No excuses."
+      "Absolutely! So make sure you’ve stretched, bring your best moves, and be prepared to light up the dance floor like you’ve been rehearsing in the mirror. No excuses."
   },
   {
-    question: "Is the ceremony and reception at the same place?",
-    answer: "Yes, both will be at skyline church."
-  },
-  {
-    question: "Is the wedding indoors?",
-    answer: "Yes, it's in the middle of may in california, so its goona be a bit warm."
+    question: "Will the ceremony and reception take place at the same venue?",
+    answer: "Yes, the ceremony will be held inside the church, and the reception will follow in the church courtyard."
   },
   {
     question: "Can I bring my family or significant other?",
@@ -35,7 +31,7 @@ const faqs = [
   {
     question: "What's the dress code for the wedding ceremony and reception?",
     answer:
-      "You're welcome to dress in formal or dressy casual attire. Since the reception will be outdoors in the church courtyard, we recommend bringing a warmer layer in case the evening gets cool. Optionally you can wear burgundy/maroon as well."
+      "You're welcome to dress in formal or dressy casual attire. Since the reception will be outdoors in the church courtyard, we recommend bringing a warmer layer in case the evening gets cool. Optionally, you can match the theme by wearing burgundy/maroon as well."
   },
   {
     question: "Will there be alcohol?",
@@ -43,14 +39,14 @@ const faqs = [
       "In keeping with the decorum of the church premises, alcohol will not be served or consumed at the reception."
   },
   {
-    question: "Will there be childcare?",
+    question: "Is childcare available?",
     answer:
       "Childcare will not be provided during the wedding, but you are welcome to bring your children and ensure that they are always supervised."
   },
   {
     question: "What type of food will be served during the reception?",
     answer:
-      "We will be serving Indian food for the reception with both vegetarian and non-vegetarian options. Please confirm your food preference and head count for each preference in the RSVP by April 1st, 2026, so that we can inform the caterer."
+      "We will be serving Indian food for the reception with both vegetarian and non-vegetarian options. Please confirm your food preference and head count for each preference in the RSVP by April 26th, 2026, so that we can inform the caterer."
   }
 ];
 

@@ -68,29 +68,31 @@ export default function MeetTheCouplePage() {
         <article className="space-y-2">
           <h2 className="text-2xl font-semibold text-[#541a28]">Jesus</h2>
           <p className="text-ink/85">
-            Our GOD and best friend, the one who bought us together miraculously and we are
-            forever grateful for him for helping us be at the right place at the right time.
-            He has really shown us how to love others, something which has spoken volumes to the both of us. 
-            The love you see in this holy union is a reflection of the love Jesus has for the church, and we hope y'all get to experience it as well. 
+            Our God and closest friend, the One who brought us together in such a miraculous way. We are forever grateful for how He placed us at the right place at the right time. 
+            Through Him, we’ve learned what it truly means to love others, and those lessons have shaped both of us deeply. 
+            The love you see in this union is simply a reflection of the love Jesus has for the church, and we hope you get to experience that love in your own lives. - Kelvin & Ella. 
           </p>
         </article>
       
         <article className="space-y-2">
           <h2 className="text-2xl font-semibold text-[#541a28]">Ellerhea Fernandes</h2>
           <p className="text-ink/85">
-            Ella has a fantastic sense of humor and just enough sarcasm to keep everyone on their
-            toes. I genuinely feel for the many unsuspecting souls who have fallen for her pranks.
-            When shes not caring for patients, she somehow has the energy to start an unofficial
-            football team (soccer for the Americans). But what I admire most is her unwavering
-            pursuit of Christ and the joy with which she shares how God has shaped her life. -
-            Kelvin
+            Ella has a fantastic sense of humor and just enough sarcasm to keep everyone on their toes. I genuinely feel for the many unsuspecting souls who have fallen for her pranks. 
+            When she’s not caring for patients, she somehow has the energy to start an unofficial football team (soccer for the Americans) after getting disappointed by Arsenal bottling another season. 
+            What I admire most is her unwavering pursuit of Christ and the joy with which she shares how God has shaped her life. - Kelvin
           </p>
         </article>
 
         <article className="space-y-2">
           <h2 className="text-2xl font-semibold text-[#541a28]">Kelvin Paul</h2>
           <p className="text-ink/85">
-            Kelvin is an amazing and lovable man of GOD who loves his family and friends. For all of you who do not know him, he is 511 and works as a semiconductor product engineer for Siemens. He for reasons unknown to most mankind loves running marathons. Voluntarily. Reapeatedly. He just doesnt like running, he will give you an unsolicited talk on shoes and training regimens. Soon enough he will somehow convince you to sign up for atleast a 5k. In his free time, he loves watching other people run and hikes mountains like hes training for a side quest. He is the human equivalent of a goldetn retriever/border collie and makes me seem less nice by comparison. He loves memes and wont let you live down and embarassing moment ever. Did I mention he also runs entirely on industrial quantities of coffe? He truly believes that he desires a weekend where he will do nothing but watch paint dry. I have never seen him do a "do nothing" evening. I do not believe such a weekend is possible for him. He is obssessed with his heartrate, drinks Peligrino to unwind and loves all his subscriptions especially his regal cinema pass. Im convinced if you look deep into his soul, you'll find a man who loves Christ, expressos and shoes and good vibes - Ellerhea
+            Kelvin is an amazing and lovable man of God who cares deeply for his family and friends. For those who don’t know him yet, he’s 5'11”, works as a Product Engineer at Siemens, and for reasons still unknown to most humans, loves running marathons. Voluntarily. Repeatedly.
+            He doesn’t just enjoy running; he will happily give you an unsolicited lecture on shoes, training strategies, and heart rate zones. And before you know it, he’ll probably convince you to sign up for a 5K, too.
+            In his free time, he enjoys watching other people run (yes, really) and hiking mountains like he’s preparing for a side quest. He’s basically the human equivalent of a golden retriever–border collie mix and somehow makes me look meaner by comparison.
+            He loves memes and will never let you forget an embarrassing moment. He also runs on industrial quantities of coffee and claims he desires a weekend of doing absolutely nothing yet in all the time I’ve known him, I have never once seen him accomplish a “do nothing” evening. I’m convinced it’s impossible for him.
+            Kelvin is obsessed with his heart rate, unwinds with Pellegrino, and cherishes all his subscriptions especially his Regal Cinema pass. And if you looked deep into his soul, I’m certain you’d find a man who loves Christ, espresso, shoes, and good vibes. 
+            - Ellerhea
+
           </p>
         </article>
 
