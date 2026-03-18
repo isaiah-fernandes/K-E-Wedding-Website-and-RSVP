@@ -51,10 +51,10 @@ const coupleQa = [
   },
   {
     question: "",
-    answer: "Kelvin: Let me tell you what the differnece between the i5 and i9 intel chip\nElla: Does this xray I sent you on wahtsapp have a Pneumothorax"
+    answer: "Kelvin: Let me tell you what the differnece between the i5 and i9 intel chip\nElla: Does this xray I sent you on whatsapp have a pneumothorax?"
   },
   {
-    question: "Who gives the longer ted talks on literally anything?",
+    question: "Who gives the longer TED talks on literally anything?",
     answer: "Ella"
   },
 
@@ -70,7 +70,7 @@ export default function MeetTheCouplePage() {
           <p className="text-ink/85">
             Our God and closest friend, the One who brought us together in such a miraculous way. We are forever grateful for how He placed us at the right place at the right time. 
             Through Him, we’ve learned what it truly means to love others, and those lessons have shaped both of us deeply. 
-            The love you see in this union is simply a reflection of the love Jesus has for the church, and we hope you get to experience that love in your own lives. - Kelvin & Ella. 
+            The love you see in this union is simply a reflection of the love Jesus has for us, and we hope you get to experience that love in your own lives. - Kelvin & Ella. 
           </p>
         </article>
       
@@ -87,10 +87,12 @@ export default function MeetTheCouplePage() {
           <h2 className="text-2xl font-semibold text-[#541a28]">Kelvin Paul</h2>
           <p className="text-ink/85">
             Kelvin is an amazing and lovable man of God who cares deeply for his family and friends. For those who don’t know him yet, he’s 5'11”, works as a Product Engineer at Siemens, and for reasons still unknown to most humans, loves running marathons. Voluntarily. Repeatedly.
-            He doesn’t just enjoy running; he will happily give you an unsolicited lecture on shoes, training strategies, and heart rate zones. And before you know it, he’ll probably convince you to sign up for a 5K, too.
-            In his free time, he enjoys watching other people run (yes, really) and hiking mountains like he’s preparing for a side quest. He’s basically the human equivalent of a golden retriever–border collie mix and somehow makes me look meaner by comparison.
-            He loves memes and will never let you forget an embarrassing moment. He also runs on industrial quantities of coffee and claims he desires a weekend of doing absolutely nothing yet in all the time I’ve known him, I have never once seen him accomplish a “do nothing” evening. I’m convinced it’s impossible for him.
-            Kelvin is obsessed with his heart rate, unwinds with Pellegrino, and cherishes all his subscriptions especially his Regal Cinema pass. And if you looked deep into his soul, I’m certain you’d find a man who loves Christ, espresso, shoes, and good vibes. 
+            He doesn’t just enjoy running; he will happily give you many unsolicited lectures on shoes and training strategies. And before you know it, he’ll probably convince you to sign up for a 5K, too.
+            In his free time, he enjoys watching other people run (yes, really) and hiking mountains like he’s preparing for a side quest.
+          </p>
+          <p className="text-ink/85">
+            He’s basically so very nice it somehow makes me look meaner by comparison. He loves memes and will never let you forget an embarrassing moment. Kelvin runs on industrial quantities of coffee and claims that he desires a weekend of doing absolutely nothing, yet in all the time I’ve known him, I have never once seen him accomplish a “do nothing” evening. I’m convinced it’s impossible for him.
+            I know if you looked deep into his soul, you’d find a man who loves Christ, espressos, shoes, and good vibes. 
             - Ellerhea
 
           </p>
@@ -121,3 +123,7 @@ export default function MeetTheCouplePage() {
     </SectionShell>
   );
 }
+
+
+
+
