@@ -8,7 +8,7 @@ const coupleQa = [
   {
     question: "What does a normal converstation sound like?",
     answer:
-      "Kelvin: \"technically speaking...\"\nElla: \"Clinically Speaking...\"\nBoth: 45-minute debate about something that did not matter."
+      "Kelvin: \"Technically speaking...\"\nElla: \"Clinically Speaking...\"\nBoth: 45-minute debate about something that did not matter."
   },
   {
     question: "What's their idea of a conversation?",
@@ -47,7 +47,7 @@ const coupleQa = [
   {
     question: "What do they discuss on a three hour call?",
     answer:
-      "Kelvin: let me tell you about the history of silicon valley.\nElla: Let me show you how to learn to read an Xray even though you will never ever need it."
+      "Kelvin: Let me tell you about the history of silicon valley.\nElla: Let me teach you how to read an Xray even though you will never ever need it."
   },
   {
     question: "",
