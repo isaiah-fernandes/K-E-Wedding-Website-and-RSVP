@@ -34,7 +34,7 @@ const faqs = [
       <>
         You're welcome to dress in formal or dressy casual attire. Since the reception will be outdoors in the
         church courtyard, we recommend bringing a warmer layer in case the evening gets cool.{" "}
-        <strong>Optionally, you can match the theme by wearing burgundy/maroon as well.</strong>
+        <strong>Optionally, you can match the theme by wearing burgundy/maroon/pink as well.</strong>
       </>
     )
   },
