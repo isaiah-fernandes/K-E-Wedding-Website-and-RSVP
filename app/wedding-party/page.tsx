@@ -11,7 +11,7 @@ const partyMembers = [
     name: "Dr. Gwendolyn Fernandes (Mother of the Bride)",
     bracketOnNewLine: true,
     photo: "Gwendolyn Fernandes.jpg",
-    note: "My mother is my inspiration in life, a woman of strength and grace who raised my brother and me while my father worked abroad. The sacrifices you made & the support & faith you have always had in me, made me a surgeon. You taught us everything, right from preschool till high school. You also taught us the Word of GOD and I will always be most grateful to you. - Ella."
+    note: "My mother is my inspiration in life, a woman of strength and grace who raised my brother and me while my father worked abroad. The sacrifices you made, the support and faith you have always had in me, made me a surgeon. You taught us everything, right from preschool till high school. You also taught us the Word of GOD and I will always be most grateful to you. - Ella."
   },
   {
     name: "Harrison Paul (Father of the Groom)",
@@ -29,7 +29,7 @@ const partyMembers = [
     name: "Thomas & Giselle Noronha (Uncle & Aunt of the Bride)",
     bracketOnNewLine: true,
     photo: "Thomas Noronha.jpg",
-    note: "Thomas Noronha: The fun uncle in the family, he loves his family and always supported me and did a 1000 small things for me to help me with life and my career.\nGiselle Noronha: A loving aunt and a teacher and family to us. She has cared for me like a daughter and always made our days special for years. Her Speech & Drama classes, the Goa trips and the Kalina weekends are very fond memories to me. -Ella"
+    note: "Thomas Noronha: The fun uncle in the family, he loves his family and always supported me and did a thousand small things for me to help me with life and my career.\nGiselle Noronha: A loving aunt and a teacher and family to us. She has cared for me like a daughter and always made our days special for years. Her Speech & Drama classes, the Goa trips and the Kalina weekends are very fond memories to me. -Ella"
   },
   {
     name: "Pastor Mary (Wedding Officiator)",
@@ -39,7 +39,7 @@ const partyMembers = [
   {
     name: "Krisha Marolia (Maid of Honor)",
     photo: "Krisha Marolia.jpeg",
-    note: "The bride's best friend and her maid of honor. She's known Ella for 14 years, and they've been through junior college, med school, and residency together. They have been the best of friends through all the seasons of life. She is a loving and caring friend unlike any other. She's unable to make it sadly, but holds a special place in my's heart. -Isaiah"
+    note: "The bride's best friend and her maid of honor. She has known Ella for 14 years, and they've been through junior college, med school, and residency together. They have been the best of friends through all seasons of life. She is a loving and caring friend unlike any other. She's unable to make it sadly, but holds a special place in ella's heart. -Isaiah"
   },
   {
     name: "Allen Paul (Best Man)",
@@ -49,7 +49,7 @@ const partyMembers = [
   {
     name: "Isaiah Fernandes (Groomsman, brother of the bride)",
     photo: "Isaiah Fernandes.jpg",
-    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older. (Delusional belief). Isaiah is the brother who has stood by my side through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother I could have asked for. He has been my best friend and has stood steadily by me in the best and in the worst of times. He is a blessing to everyone and I cannot imagine what life would have been for me without him. -Ella"
+    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older (Delusional belief). Isaiah is the brother who has stood by my side through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother I could have asked for. He has been my best friend and has stood steadily by me in the best and in the worst of times. He is a blessing to everyone and I cannot imagine what life would have been for me without him. -Ella"
   },
   {
     name: "Nerlin Peris (Bridesmaid)",

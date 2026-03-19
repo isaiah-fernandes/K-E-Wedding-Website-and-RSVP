@@ -33,7 +33,7 @@ const coupleQa = [
   },
   {
     question: "Who takes much longer to get ready?",
-    answer: "It;s still Kelvin"
+    answer: "It's still Kelvin"
   },
   {
     question: "Who is the more dramatic one?",
@@ -47,7 +47,7 @@ const coupleQa = [
   {
     question: "What do they discuss on a three hour call?",
     answer:
-      "Kelvin: Let me tell you about the history of silicon valley.\nElla: Let me teach you how to read an X-ray even though you will never ever need it."
+      "Kelvin: Let me tell you about the history of Silicon Valley.\nElla: Let me teach you how to read an X-ray even though you will never ever need it."
   },
   {
     question: "",
