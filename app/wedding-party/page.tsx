@@ -49,7 +49,7 @@ const partyMembers = [
   {
     name: "Isaiah Fernandes (Groomsman, brother of the bride)",
     photo: "Isaiah Fernandes.jpg",
-    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older. (Delusional belief). Isaiah is the brother who has stood by my side through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother I could have ever asked for. He has been my best friend and has stood steadily by me in the best and in the very worst of times. He is a blessing to everyone and I cannot imagine what life would have been for me without him. -Ella"
+    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older. (Delusional belief). Isaiah is the brother who has stood by my side through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother I could have asked for. He has been my best friend and has stood steadily by me in the best and in the worst of times. He is a blessing to everyone and I cannot imagine what life would have been for me without him. -Ella"
   },
   {
     name: "Nerlin Peris (Bridesmaid)",
