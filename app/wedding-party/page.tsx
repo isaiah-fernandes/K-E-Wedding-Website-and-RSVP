@@ -5,13 +5,13 @@ const partyMembers = [
     name: "Jose Fernandes (Father of the Bride)",
     bracketOnNewLine: true,
     photo: "Jose Fernandes.jpg",
-    note: "My dad whom I adore has been the pillar of support all my life. He has battled all odds to raise two loving kids in spite of tough times. I recognize all the sacrifice and the hardships you had to go through to give me a good education and the best life has to offer. I love you and appreciate all your input in my life. My parents have given me the greatest gift of all that is teaching me and bringing me up on the word of GOD. - Ella"
+    note: "My dad whom I adore has been the pillar of support all my life. He has battled all odds to raise two loving kids in spite of tough times. I recognize all the sacrifice and the hardships he had to go through to give me a good education and the best life has to offer. I love you and appreciate all your input in my life. My parents have given me the greatest gift of all that is teaching me and bringing me up on the Word of GOD. - Ella"
   },
   {
     name: "Dr. Gwendolyn Fernandes (Mother of the Bride)",
     bracketOnNewLine: true,
     photo: "Gwendolyn Fernandes.jpg",
-    note: "My mother is my inspiration in life, a woman of strength and grace who raised my brother and me while my father worked abroad. The sacrifices you made & the support & faith you have always had in me made me a surgeon. You taught us everything, right from preschool till high school. You also taught us the word of GOD and I will always be most grateful to you. - Ella."
+    note: "My mother is my inspiration in life, a woman of strength and grace who raised my brother and me while my father worked abroad. The sacrifices you made & the support & faith you have always had in me, made me a surgeon. You taught us everything, right from preschool till high school. You also taught us the Word of GOD and I will always be most grateful to you. - Ella."
   },
   {
     name: "Harrison Paul (Father of the Groom)",
@@ -26,10 +26,10 @@ const partyMembers = [
     note: "Visitors never leave our home without complimenting my mom’s cooking, and I especially came to appreciate her meals after four years of dorm‑food survival. She lives a Christ‑centered life and cares deeply for everyone God places in her path. No matter where we are, she has a way of making any place feel like home. -Kelvin"
   },
   {
-    name: "Thomas & Giselle Noronha (Uncle/Aunt of the Bride)",
+    name: "Thomas & Giselle Noronha (Uncle & Aunt of the Bride)",
     bracketOnNewLine: true,
     photo: "Thomas Noronha.jpg",
-    note: "Thomas Noronha: The fun uncle in the family, he loves his family and always supported me and did a 1000 small things for me to help me with life and my career.\nGiselle Noronha: A loving aunt and a teacher and family to us. She has cared for me like a daughter and always made our days special for years. Her Speech & Drama classes, the Goa trips and the kalina weekends are very fond memories to me. -Ella"
+    note: "Thomas Noronha: The fun uncle in the family, he loves his family and always supported me and did a 1000 small things for me to help me with life and my career.\nGiselle Noronha: A loving aunt and a teacher and family to us. She has cared for me like a daughter and always made our days special for years. Her Speech & Drama classes, the Goa trips and the Kalina weekends are very fond memories to me. -Ella"
   },
   {
     name: "Pastor Mary (Wedding Officiator)",
@@ -44,12 +44,12 @@ const partyMembers = [
   {
     name: "Allen Paul (Best Man)",
     photo: "Allen Paul.jpg",
-    note: "My cooler younger brother, six years behind biologically but still ahead of me in style. We share most of the same tastes, especially in music thanks to our parents. He's a Christ follower, a worship team guitarist and bassist, and the obvious choice for my best man. -Kelvin"
+    note: "My cooler younger brother, six years behind biologically but still ahead of me in style. We share most of the same tastes, especially in music, thanks to our parents. He's a Christ follower, a worship team guitarist and bassist, and the obvious choice for my best man. -Kelvin"
   },
   {
     name: "Isaiah Fernandes (Groomsman, brother of the bride)",
     photo: "Isaiah Fernandes.jpg",
-    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older. (Delusional belief). Isaiah is the brother who has stood by her through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother she could have ever asked for. He has been her best friend and has stood steadily by her in the best and in the very worst of times. He is a blessing to everyone and she cannot imagine what life would have been for her without him. -Ella"
+    note: "Isaiah is my younger brother. He is four years younger, but has now grown taller and believes he is older. (Delusional belief). Isaiah is the brother who has stood by my side through thick and thin. He is confident, charming, handsome, loving, a man of God and is the best brother I could have ever asked for. He has been my best friend and has stood steadily by me in the best and in the very worst of times. He is a blessing to everyone and I cannot imagine what life would have been for me without him. -Ella"
   },
   {
     name: "Nerlin Peris (Bridesmaid)",

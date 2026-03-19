@@ -28,7 +28,7 @@ export default async function HomePage() {
         <div className="mx-auto mt-6 flex min-h-[120px] w-full max-w-3xl items-center justify-center px-6 py-6">
           <p className="max-w-2xl text-center text-[17px] font-semibold leading-relaxed text-black">
             We are very blessed to share our memorable day with you. As we begin our life
-            together, we request your presence. We can&apos;t wait to celebrate this chapter of
+            together, we request your presence at our wedding. We can&apos;t wait to celebrate this chapter of
             our lives with our dearest family and friends.
           </p>
         </div>

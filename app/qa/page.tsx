@@ -3,7 +3,7 @@ import { SectionShell } from "@/components/SectionShell";
 const faqs = [
   {
     question: "When is the RSVP deadline?",
-    answer: "We kindly ask that you RSVP by April 26th, 2026. You may also reach out to Kelvin, Ella, or any family member to RSVP."
+    answer: "We  request you RSVP by April 26th, 2026. You may also reach out to Kelvin, Ella, or any family member to RSVP."
   },
   {
     question: "What time should I arrive to the venue?",

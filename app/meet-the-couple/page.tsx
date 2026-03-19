@@ -13,7 +13,7 @@ const coupleQa = [
   {
     question: "What's their idea of a conversation?",
     answer:
-      "Kelvin: \"Let me explain Semiconductors and the physics behind it.\"\nElla: \" Let me explain appendectomy & how much post op bleeding is tolerable.\"\nBoth: Somehow still impressed"
+      "Kelvin: \"Let me explain semiconductors and the physics behind it.\"\nElla: \" Let me explain an appendectomy & how much post-op bleeding is tolerable.\"\nBoth: Somehow still impressed"
   },
   {
     question: "Who takes longer to get ready?",
@@ -33,25 +33,25 @@ const coupleQa = [
   },
   {
     question: "Who takes much longer to get ready?",
-    answer: "Its still Kelvin"
+    answer: "It;s still Kelvin"
   },
   {
     question: "Who is the more dramatic one?",
-    answer: "About real problems: Neither \n About Food being late: Kelvin  \n  About clothing: Ella"
+    answer: "About real problems: Neither \n About food being late: Kelvin  \n  About clothing: Ella"
   },
   {
     question: "Who explains their job better?",
     answer:
-      "Kelvin: goes on about telling you something you won't understand on silicon chips.\nElla: procedes to tell you a horror story on a patient she operated. \n Family understands Neither"
+      "Kelvin: goes on about telling you something you won't understand on silicon chips.\nElla: proceeds to tell you a horror story on a patient she operated. \n Family understands neither"
   },
   {
     question: "What do they discuss on a three hour call?",
     answer:
-      "Kelvin: Let me tell you about the history of silicon valley.\nElla: Let me teach you how to read an Xray even though you will never ever need it."
+      "Kelvin: Let me tell you about the history of silicon valley.\nElla: Let me teach you how to read an X-ray even though you will never ever need it."
   },
   {
     question: "",
-    answer: "Kelvin: Let me tell you what the differnece between the i5 and i9 intel chip\nElla: Does this xray I sent you on whatsapp have a pneumothorax?"
+    answer: "Kelvin: Let me tell you what the differnece between the i5 and i9 intel chip\nElla: Does this X-ray I sent you on whatsapp have a pneumothorax?"
   },
   {
     question: "Who gives the longer TED talks on literally anything?",
@@ -62,7 +62,7 @@ const coupleQa = [
 
 export default function MeetTheCouplePage() {
   return (
-    <SectionShell title="Meet the Couple" subtitle="How our story started and where it is going.">
+    <SectionShell title="Meet the Couple" subtitle="How our story started and where it is going">
       <div className="space-y-8 [&_p]:text-justify">
 
         <article className="space-y-2">
@@ -91,7 +91,7 @@ export default function MeetTheCouplePage() {
             In his free time, he enjoys watching other people run (yes, really) and hiking mountains like he’s preparing for a side quest.
           </p>
           <p className="text-ink/85">
-            He’s basically so very nice it somehow makes me look meaner by comparison. He loves memes and will never let you forget an embarrassing moment. Kelvin runs on industrial quantities of coffee and claims that he desires a weekend of doing absolutely nothing, yet in all the time I’ve known him, I have never once seen him accomplish a “do nothing” evening. I’m convinced it’s impossible for him.
+            He’s basically so very nice, it somehow makes me look meaner by comparison. He loves memes and will never let you forget an embarrassing moment. Kelvin runs on industrial quantities of coffee and claims that he desires a weekend of doing absolutely nothing, yet in all the time I’ve known him, I have never once seen him accomplish a “do nothing” evening. I’m convinced it’s impossible for him.
             I know if you looked deep into his soul, you’d find a man who loves Christ, espressos, shoes, and good vibes. 
             - Ellerhea
 
