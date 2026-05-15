@@ -41,9 +41,25 @@ export default async function HomePage() {
             <br />
             Skyline Church
           </h2>
+
           <p className="mt-2 text-[19px] font-medium text-black">
             12450 Skyline Blvd, Oakland, CA 94619
           </p>
+
+          <div className="mt-4">
+            <p className="text-[29px] font-semibold text-[#541a28]">
+              Link to the Wedding Stream
+            </p>
+
+            <a
+              href="https://youtube.com/live/6kWtvWPYm8M?feature=share"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-1 inline-block text-[17px] font-medium text-blue-600 underline break-all"
+            >
+              https://youtube.com/live/6kWtvWPYm8M?feature=share
+            </a>
+          </div>
         </div>
 
         <div className="mx-auto mt-8 w-full max-w-[896px]">
