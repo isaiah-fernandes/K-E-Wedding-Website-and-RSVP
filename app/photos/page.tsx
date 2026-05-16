@@ -33,7 +33,7 @@ export default async function PhotosPage() {
     "h-[390px] w-[560px] object-cover sm:h-[450px] sm:w-[660px] md:h-[510px] md:w-[770px]";
 
   return (
-    <section className="relative left-1/2 right-1/2 mx-auto w-screen max-w-none -ml-[50vw] -mr-[50vw] bg-[#ece8e6] px-4 py-8 sm:px-8 sm:py-10">
+    <section className="relative left-1/2 right-1/2 mx-auto w-screen max-w-none -ml-[50vw] -mr-[50vw] bg-[#e6e1df] px-4 py-8 sm:px-8 sm:py-10">
       <div className="mx-auto flex w-full max-w-[1500px] flex-col gap-5 sm:gap-7">
         <div className="grid grid-cols-1 justify-items-center gap-4 sm:grid-cols-3 sm:gap-5">
           {photoSrc.slice(0, 3).map((src, index) => (
